@@ -1,4 +1,5 @@
-## Hello 👋
+## Hola 👋, mi nombre es Eric Separovic
+### Frontend Devloper Jr
 
 ![Design preview for the Todo app coding challenge](EricSeparovicProfile.png)
 <!--
