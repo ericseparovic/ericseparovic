@@ -1,7 +1,7 @@
 ### Hello 👋, ny name is Eric Separovic 
 ## Frontend Developer Jr
 
-[https://github.com/ericseparovic/ericseparovic](EricSeparovicPorfile.png)
+![Design preview for the Todo app coding challenge](EricSeparovicPorfile.jpg)
 <!--
 **ericseparovic/ericseparovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
