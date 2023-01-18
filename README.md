@@ -1,5 +1,5 @@
 ![https://github.com/ericseparovic](EricSeparovicProfile.png)
-<h1 align="center">Holla 👋, mi nombre es Eric Separovic</h1>
+<h1 align="center">Hola 👋, mi nombre es Eric Separovic</h1>
 <h3 align="center">Frontend Developer Jr</h3>
 
 - 👨‍💻 All of my projects are available at [https://ericseparovic.netlify.app/](https://ericseparovic.netlify.app/)
