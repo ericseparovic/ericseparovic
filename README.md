@@ -2,9 +2,7 @@
 <h1 align="center">Hola 👋, mi nombre es Eric Separovic</h1>
 <h3 align="center">Frontend Developer Jr</h3>
 
-- 👨‍💻 All of my projects are available at [https://ericseparovic.netlify.app/](https://ericseparovic.netlify.app/)
-
-- 📫 How to reach me **ericseparovic07@gmail.com**
+- 👨‍💻 Mis Proyectos [https://ericseparovic.netlify.app/](https://ericseparovic.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
