@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello 👋, ny name is Eric Separovic 
+## Frontend Developer Jr
 <!--
 **ericseparovic/ericseparovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
