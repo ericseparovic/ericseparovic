@@ -5,14 +5,14 @@
 Soy programador jr, tengo 29 años y me gustaría tener mi primera experiencia como Frontend Developer,  me consideró una persona proactiva y disfruto aprender cosas nuevas. 
 Here are some ideas to get you started:
 
-![HTML](html.png)
-![CSS](css.png)
-![Javascript](javascript.png)
-![SASS](sass.png)
-![Bootstrap](bootsrap.png)
-![TailwindCSS](tailwind.png)
-![ReactJS](react.png)
-![Python](python.png)
-![MySQL](mysql.png)
-![GIT](git.png)
+![HTML](./icons/html.png)
+![CSS](./icons/css.png)
+![Javascript](./icons/javascript.png)
+![SASS](./icons/sass.png)
+![Bootstrap](./icons/bootsrap.png)
+![TailwindCSS](./icons/tailwind.png)
+![ReactJS](./icons/react.png)
+![Python](./icons/python.png)
+![MySQL](./icons/mysql.png)
+![GIT](./icons/git.png)
 
