@@ -6,7 +6,7 @@ Soy programador jr, tengo 29 años y me gustaría tener mi primera experiencia c
 Here are some ideas to get you started:
 
 ![HTML](./icons/html.png)![CSS](./icons/css.png)
-
+<!--
 ![Javascript](./icons/javascript.png)
 ![SASS](./icons/sass.png)
 ![Bootstrap](./icons/bootsrap.png)
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 ![MySQL](./icons/mysql.png)
 ![GIT](./icons/git.png)
 
+-->
