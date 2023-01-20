@@ -2,6 +2,11 @@
 <h1 align="center">Hola 👋, mi nombre es Eric Separovic</h1>
 <h3 align="center">Frontend Developer Jr</h3>
 
+Uno de mis objetivos profesionales es mejorar aprendiendo contantemente. Me esfuerzo cada día en cumplir mis objetivos y metas, no solo profesionales, sino también personales. 
+
+He realizado varios proyectos de manera autodidacta, ya que no cuento con experiencia.
+
+Mis proyectos: ericseparovic.netlify.app/
 - 👨‍💻 Mis Proyectos [https://ericseparovic.netlify.app/](https://ericseparovic.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
