@@ -4,7 +4,7 @@
 
 Uno de mis objetivos profesionales es mejorar aprendiendo contantemente. Me esfuerzo cada día en cumplir mis objetivos y metas, no solo profesionales, sino también personales. 
 
-He realizado varios proyectos de manera autodidacta, ya que no cuento con experiencia.
+He realizado varios proyectos de manera autodidacta.
 
 Mis proyectos: ericseparovic.netlify.app/
 - 👨‍💻 Mis Proyectos [https://ericseparovic.netlify.app/](https://ericseparovic.netlify.app/)
