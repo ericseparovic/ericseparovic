@@ -1,6 +1,6 @@
 ![https://github.com/ericseparovic](EricSeparovicProfile.png)
 <h1 align="center">Hola 👋, mi nombre es Eric Separovic</h1>
-<h3 align="center">Frontend Developer Jr</h3>
+<h3 align="center">Frontend Developer</h3>
 
 Uno de mis objetivos profesionales es mejorar aprendiendo contantemente. Me esfuerzo cada día en cumplir mis objetivos y metas, no solo profesionales, sino también personales. 
 
