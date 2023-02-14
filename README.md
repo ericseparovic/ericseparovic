@@ -6,7 +6,6 @@ Uno de mis objetivos profesionales es mejorar aprendiendo contantemente. Me esfu
 
 He realizado varios proyectos de manera autodidacta.
 
-Mis proyectos: ericseparovic.netlify.app/
 - 👨‍💻 Mis Proyectos [https://ericseparovic.netlify.app/](https://ericseparovic.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
